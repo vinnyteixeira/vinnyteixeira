@@ -19,8 +19,6 @@
   <img align="center" alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   </div><br>
   
-  <iframe src="https://open.spotify.com/embed/user/cnkzbr8ufd275c5eihk706pvg/playlist/6F5wvTrJUQMPOC3pWUV2Kr" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
-  
   A sabedoria não vem do acerto, mas do aprendizado com os erros.
   
    ![Snake animation](https://github.com/vinnyteixeira/vinnyteixeira/blob/output/github-contribution-grid-snake.svg)
