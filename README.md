@@ -19,6 +19,3 @@
   </div><br>
   
   A sabedoria não vem do acerto, mas do aprendizado com os erros.
-  
-   ![Snake animation](https://github.com/vinnyteixeira/vinnyteixeira/blob/output/github-contribution-grid-snake.svg)
-
