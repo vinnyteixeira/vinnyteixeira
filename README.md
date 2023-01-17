@@ -4,8 +4,6 @@
 [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://whats.link/abdelf)
 
 
-![Vinny GitHub stats](https://github-readme-stats.vercel.app/api?username=vinnyteixeira&show_icons=true&theme=tokyonight)
-
 ## Tecnologias que ja utilizei 😄
 
 <div style="display: inline_block"><br/>
